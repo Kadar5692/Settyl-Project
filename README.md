@@ -1,9 +1,5 @@
 # Settyl-Project
 
-Sure, here's a suggested description for your GitHub public repository to showcase your submission:
-
----
-
 # Machine Learning Model for Predicting Internal Status
 
 This repository contains the code and documentation for a machine learning model developed to predict internal status based on external status descriptions. The project was completed as part of a task for the Settyl Data Science and Machine Learning Engineer role.
