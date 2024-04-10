@@ -18,19 +18,19 @@ The goal of this project was to develop a robust machine learning model using Te
 
 # Repository Structure:
 
-Project_Code.ipynb:
+**Project_Code.ipynb:**
 This Jupyter Notebook file contains the code for the entire project, including data preprocessing, model development, API implementation, and testing. It is created using Google Colab.
 
-README.md:
+**README.md:**
 The README file provides an overview of the project, including its purpose, structure, and usage instructions. It also includes links to relevant resources and external tools used in the project.
 
-data set.zip:
+**data set.zip:**
 This zip file contains the dataset used for model training and testing. It includes JSON files with external status descriptions and internal status labels.
 
-trained_model.h5:
+**trained_model.h5:**
 The trained_model.h5 file contains the saved model weights and architecture after training. It can be loaded to make predictions without retraining the model.
 
-docs:
+**docs:**
 Documentation for the project, including data preprocessing steps, model architecture, training procedure, API implementation, and testing results.
 
 # How to Use
