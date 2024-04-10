@@ -22,9 +22,9 @@ The goal of this project was to develop a robust machine learning model using Te
 
 # Repository Structure
 
-- **`data/`**: Contains the dataset used for training and validation.
-- **`models/`**: Contains trained machine learning models.
-- **`notebooks/`**: Jupyter notebooks for data exploration, model development, and evaluation.
+- **data set.json** : Contains the dataset used for training and validation.
+- **trained models.h5**: Contains trained machine learning models.
+- ** [https://colab.research.google.com/drive/1GFcn2z3XAN1T8kjG8XqeYRNp-4_JQOwS?usp=sharing] **: Google Colab for data exploration, model development, and evaluation.
 - **`src/`**: Source code for the API implementation and other utility functions.
 - **`docs/`**: Documentation for the project, including data preprocessing steps, model architecture, training procedure, API implementation, and testing results.
 
