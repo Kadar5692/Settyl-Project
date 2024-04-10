@@ -16,16 +16,24 @@ The goal of this project was to develop a robust machine learning model using Te
 - **API Development**: An API was implemented using FastAPI framework to expose the trained machine learning model. The API accepts external status descriptions as input and returns the predicted internal status labels.
 - **Testing and Validation**: The API was thoroughly tested to ensure its functionality and accuracy. Predictions were validated against a validation dataset to measure the model's generalization ability.
 
-# Repository Structure
+# Repository Structure:
 
-- **data set.json** : Contains the dataset used for training and validation.
-- **trained models.h5**: Contains trained machine learning models.
-- ** [https://colab.research.google.com/drive/1GFcn2z3XAN1T8kjG8XqeYRNp-4_JQOwS?usp=sharing] **: Google Colab link for data exploration, model development, and evaluation.
-- **`src/`**: Source code for the API implementation and other utility functions.
-- **`docs/`**: Documentation for the project, including data preprocessing steps, model architecture, training procedure, API implementation, and testing results.
+Project_Code.ipynb:
+This Jupyter Notebook file contains the code for the entire project, including data preprocessing, model development, API implementation, and testing. It is created using Google Colab.
+
+README.md:
+The README file provides an overview of the project, including its purpose, structure, and usage instructions. It also includes links to relevant resources and external tools used in the project.
+
+data set.zip:
+This zip file contains the dataset used for model training and testing. It includes JSON files with external status descriptions and internal status labels.
+
+trained_model.h5:
+The trained_model.h5 file contains the saved model weights and architecture after training. It can be loaded to make predictions without retraining the model.
+
+docs:
+Documentation for the project, including data preprocessing steps, model architecture, training procedure, API implementation, and testing results.
 
 # How to Use
-
 1. Clone the repository: `(https://github.com/Kadar5692/Settyl-Project.git)`
 2. Navigate to the project directory: `Settyl-Project`
 3. Install dependencies: `pip install -r requirements.txt`
