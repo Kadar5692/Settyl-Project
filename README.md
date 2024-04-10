@@ -30,7 +30,7 @@ The goal of this project was to develop a robust machine learning model using Te
 
 # How to Use
 
-1. Clone the repository: `git clone https://github.com/yourusername/machine-learning-internal-status.git`
+1. Clone the repository: `(https://github.com/Kadar5692/Settyl-Project.git)`
 2. Navigate to the project directory: `cd machine-learning-internal-status`
 3. Install dependencies: `pip install -r requirements.txt`
 4. Run the API: `python src/api.py`
