@@ -38,7 +38,7 @@ Documentation for the project, including data preprocessing steps, model archite
 2. Navigate to the project directory: `Settyl-Project`
 3. Install dependencies: `pip install -r requirements.txt`
 4. Run the API: `python src/api.py`
-5. Access the API at `http://localhost:8000` or by generating public URL in real time and make predictions using external status descriptions.
+5. Access the API at `http://localhost:8000` or by generating public URL in real time through ngrok tunnel for public access and make predictions using external status descriptions.
 
 - **Run the API**: Start the FastAPI application using the provided script. It sets up the API, defines the prediction endpoint, establishes an ngrok tunnel for public access, and runs the server.
 
